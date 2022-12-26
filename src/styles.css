@@ -1471,10 +1471,12 @@ iframe {
 
   .s-box h3 {
     font-size: 15px;
+    
   }
 
   .s-box p {
     font-size: 12px;
+
     text-align: left;
     line-height: 15px;
     padding-top: 10px;
